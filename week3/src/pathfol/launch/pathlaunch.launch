@@ -1,0 +1,12 @@
+<launch>
+    <node name="path_follow" 
+          pkg="pathfol" 
+          type="path_sub.py" 
+          output="screen"
+    />
+    <node name="path_publisher"
+          pkg="pathfol"
+          type="path_pub.py"
+          output="screen"
+    />
+</launch>

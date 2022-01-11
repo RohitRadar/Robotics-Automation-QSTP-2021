@@ -1,0 +1,2 @@
+helloworld:robtrj:turtbot
+-DCATKIN_DEVEL_PREFIX=/home/rohitd/rosqstp/week2/devel -DCMAKE_INSTALL_PREFIX=/home/rohitd/rosqstp/week2/install -G Unix Makefiles

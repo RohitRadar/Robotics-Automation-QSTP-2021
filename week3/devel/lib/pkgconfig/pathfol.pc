@@ -1,0 +1,8 @@
+prefix=/home/rohitd/rosqstp/week3/devel
+
+Name: pathfol
+Description: Description of pathfol
+Version: 0.0.0
+Cflags: -I/home/rohitd/rosqstp/week3/src/pathfol/include
+Libs: -L${prefix}/lib -lpathfol
+Requires: roscpp rospy std_msgs message_runtime

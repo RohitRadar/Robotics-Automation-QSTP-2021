@@ -1,0 +1,8 @@
+prefix=/home/rohitd/rosqstp/week2/install
+
+Name: robtrj
+Description: Description of robtrj
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrobtrj
+Requires: roscpp rospy std_msgs message_runtime

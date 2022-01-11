@@ -1,0 +1,2 @@
+pathfol
+-DCATKIN_DEVEL_PREFIX=/home/rohitd/rosqstp/week3/devel -DCMAKE_INSTALL_PREFIX=/home/rohitd/rosqstp/week3/install -G Unix Makefiles
